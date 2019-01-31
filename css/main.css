@@ -26,10 +26,12 @@ html {
 
 .banner {
   position: relative;
+  max-height:
 }
 
 .banner-content {
   color: #fff;
   position: absolute;
-  align-content: center;
+  bottom: 1em;
+  text-align: center;
 }
